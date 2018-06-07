@@ -22,4 +22,5 @@ You will need the following packages installed for Python 2.7:
 * [xkcd 1961](https://xkcd.com/1961): Interaction ([explained](http://www.explainxkcd.com/wiki/index.php/1961))
 * [xkcd 1963](https://xkcd.com/1963): Namespace Land Rush ([explained](http://www.explainxkcd.com/wiki/index.php/1963))
 * [xkcd 329](https://xkcd.com/329): Turing Test ([explained](http://www.explainxkcd.com/wiki/index.php/329))
+* [xkcd 404](https://xkcd.com/404): 404: Not Found ([explained](http://www.explainxkcd.com/wiki/index.php/404))
 * [xkcd 936](https://xkcd.com/936): Password Strength ([explained](http://www.explainxkcd.com/wiki/index.php/936))

@@ -44,10 +44,10 @@ def main():
     tbuf = skeleton.read()
 
     # Add (sorted) comics to README.md
-    for key in sorted(all_xkcd.keys()):
-        cur = all_xkcd[key]
+    for key in sorted(map(int, all_xkcd.keys())):
+        cur = all_xkcd[str(key)]
         # Markdown Formatted Entry
-        md_bullet = "* [xkcd " + key + "](" + cur['url'] + "): " + cur['title'] + " ([explained](" + cur['explain'] + "))\n"
+        md_bullet = "* [xkcd " + str(key) + "](" + cur['url'] + "): " + cur['title'] + " ([explained](" + cur['explain'] + "))\n"
         tbuf += md_bullet
 
     # Update README.md

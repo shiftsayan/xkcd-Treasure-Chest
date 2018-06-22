@@ -40,3 +40,4 @@ You will need the following packages installed for Python 2.7:
 * [1957](https://xkcd.com/1957): 2018 CVE List ([explained](http://www.explainxkcd.com/wiki/index.php/1957))
 * [1961](https://xkcd.com/1961): Interaction ([explained](http://www.explainxkcd.com/wiki/index.php/1961))
 * [1963](https://xkcd.com/1963): Namespace Land Rush ([explained](http://www.explainxkcd.com/wiki/index.php/1963))
+* [2010](https://xkcd.com/2010): Update Notes ([explained](http://www.explainxkcd.com/wiki/index.php/2010))

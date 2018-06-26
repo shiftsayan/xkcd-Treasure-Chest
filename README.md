@@ -33,6 +33,7 @@ You will need the following packages installed for Python 2.7:
 * [404](https://xkcd.com/404): 404: Not Found ([explained](http://www.explainxkcd.com/wiki/index.php/404))
 * [435](https://xkcd.com/435): Purity ([explained](http://www.explainxkcd.com/wiki/index.php/435))
 * [538](https://xkcd.com/538): Security ([explained](http://www.explainxkcd.com/wiki/index.php/538))
+* [722](https://xkcd.com/722): Computer Problems ([explained](http://www.explainxkcd.com/wiki/index.php/722))
 * [936](https://xkcd.com/936): Password Strength ([explained](http://www.explainxkcd.com/wiki/index.php/936))
 * [1270](https://xkcd.com/1270): Functional ([explained](http://www.explainxkcd.com/wiki/index.php/1270))
 * [1601](https://xkcd.com/1601): Isolation ([explained](http://www.explainxkcd.com/wiki/index.php/1601))

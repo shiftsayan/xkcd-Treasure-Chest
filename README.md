@@ -37,6 +37,7 @@ You will need the following packages installed for Python 2.7:
 * [936](https://xkcd.com/936): Password Strength ([explained](http://www.explainxkcd.com/wiki/index.php/936))
 * [1270](https://xkcd.com/1270): Functional ([explained](http://www.explainxkcd.com/wiki/index.php/1270))
 * [1601](https://xkcd.com/1601): Isolation ([explained](http://www.explainxkcd.com/wiki/index.php/1601))
+* [1753](https://xkcd.com/1753): Thumb War ([explained](http://www.explainxkcd.com/wiki/index.php/1753))
 * [1790](https://xkcd.com/1790): Sad ([explained](http://www.explainxkcd.com/wiki/index.php/1790))
 * [1957](https://xkcd.com/1957): 2018 CVE List ([explained](http://www.explainxkcd.com/wiki/index.php/1957))
 * [1961](https://xkcd.com/1961): Interaction ([explained](http://www.explainxkcd.com/wiki/index.php/1961))

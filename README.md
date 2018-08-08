@@ -46,3 +46,4 @@ You will need the following packages installed for Python 2.7:
 * [1963](https://xkcd.com/1963): Namespace Land Rush ([explained](http://www.explainxkcd.com/wiki/index.php/1963))
 * [2010](https://xkcd.com/2010): Update Notes ([explained](http://www.explainxkcd.com/wiki/index.php/2010))
 * [2019](https://xkcd.com/2019): An Apple for a Dollar ([explained](http://www.explainxkcd.com/wiki/index.php/2019))
+* [2030](https://xkcd.com/2030): Voting Software ([explained](http://www.explainxkcd.com/wiki/index.php/2030))

@@ -32,6 +32,7 @@ You will need the following packages installed for Python 2.7:
 * [329](https://xkcd.com/329): Turing Test ([explained](http://www.explainxkcd.com/wiki/index.php/329))
 * [404](https://xkcd.com/404): 404: Not Found ([explained](http://www.explainxkcd.com/wiki/index.php/404))
 * [435](https://xkcd.com/435): Purity ([explained](http://www.explainxkcd.com/wiki/index.php/435))
+* [530](https://xkcd.com/530): I'm An Idiot ([explained](http://www.explainxkcd.com/wiki/index.php/530))
 * [538](https://xkcd.com/538): Security ([explained](http://www.explainxkcd.com/wiki/index.php/538))
 * [722](https://xkcd.com/722): Computer Problems ([explained](http://www.explainxkcd.com/wiki/index.php/722))
 * [936](https://xkcd.com/936): Password Strength ([explained](http://www.explainxkcd.com/wiki/index.php/936))

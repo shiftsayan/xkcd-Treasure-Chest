@@ -51,3 +51,4 @@ You will need the following packages installed for Python 2.7:
 * [2030](https://xkcd.com/2030): Voting Software ([explained](http://www.explainxkcd.com/wiki/index.php/2030))
 * [2043](https://xkcd.com/2043): Boathouses and Houseboats ([explained](http://www.explainxkcd.com/wiki/index.php/2043))
 * [2047](https://xkcd.com/2047): Beverages ([explained](http://www.explainxkcd.com/wiki/index.php/2047))
+* [2051](https://xkcd.com/2051): Bad Opinions ([explained](http://www.explainxkcd.com/wiki/index.php/2051))

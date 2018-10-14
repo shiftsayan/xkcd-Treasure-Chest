@@ -34,6 +34,7 @@ You will need the following packages installed for Python 2.7:
 * [435](https://xkcd.com/435): Purity ([explained](http://www.explainxkcd.com/wiki/index.php/435))
 * [530](https://xkcd.com/530): I'm An Idiot ([explained](http://www.explainxkcd.com/wiki/index.php/530))
 * [538](https://xkcd.com/538): Security ([explained](http://www.explainxkcd.com/wiki/index.php/538))
+* [703](https://xkcd.com/703): Honor Societies ([explained](http://www.explainxkcd.com/wiki/index.php/703))
 * [722](https://xkcd.com/722): Computer Problems ([explained](http://www.explainxkcd.com/wiki/index.php/722))
 * [936](https://xkcd.com/936): Password Strength ([explained](http://www.explainxkcd.com/wiki/index.php/936))
 * [1270](https://xkcd.com/1270): Functional ([explained](http://www.explainxkcd.com/wiki/index.php/1270))

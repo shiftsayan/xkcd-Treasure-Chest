@@ -53,3 +53,4 @@ You will need the following packages installed for Python 2.7:
 * [2043](https://xkcd.com/2043): Boathouses and Houseboats ([explained](http://www.explainxkcd.com/wiki/index.php/2043))
 * [2047](https://xkcd.com/2047): Beverages ([explained](http://www.explainxkcd.com/wiki/index.php/2047))
 * [2051](https://xkcd.com/2051): Bad Opinions ([explained](http://www.explainxkcd.com/wiki/index.php/2051))
+* [2070](https://xkcd.com/2070): Trig Identities ([explained](http://www.explainxkcd.com/wiki/index.php/2070))

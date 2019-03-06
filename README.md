@@ -56,3 +56,4 @@ You will need the following packages installed for Python 2.7:
 * [2070](https://xkcd.com/2070): Trig Identities ([explained](http://www.explainxkcd.com/wiki/index.php/2070))
 * [2079](https://xkcd.com/2079): Alpha Centauri ([explained](http://www.explainxkcd.com/wiki/index.php/2079))
 * [2110](https://xkcd.com/2110): Error Bars ([explained](http://www.explainxkcd.com/wiki/index.php/2110))
+* [2120](https://xkcd.com/2120): Brain Hemispheres ([explained](http://www.explainxkcd.com/wiki/index.php/2120))

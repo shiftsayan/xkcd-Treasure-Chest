@@ -57,3 +57,4 @@ You will need the following packages installed for Python 2.7:
 * [2079](https://xkcd.com/2079): Alpha Centauri ([explained](http://www.explainxkcd.com/wiki/index.php/2079))
 * [2110](https://xkcd.com/2110): Error Bars ([explained](http://www.explainxkcd.com/wiki/index.php/2110))
 * [2120](https://xkcd.com/2120): Brain Hemispheres ([explained](http://www.explainxkcd.com/wiki/index.php/2120))
+* [2127](https://xkcd.com/2127): Panama Canal ([explained](http://www.explainxkcd.com/wiki/index.php/2127))

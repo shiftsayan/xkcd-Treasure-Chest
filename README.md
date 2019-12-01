@@ -41,6 +41,7 @@ You will need the following packages installed for Python 2.7:
 * [1270](https://xkcd.com/1270): Functional ([explained](http://www.explainxkcd.com/wiki/index.php/1270))
 * [1301](https://xkcd.com/1301): File Extensions ([explained](http://www.explainxkcd.com/wiki/index.php/1301))
 * [1357](https://xkcd.com/1357): Free Speech ([explained](http://www.explainxkcd.com/wiki/index.php/1357))
+* [1428](https://xkcd.com/1428): Move Fast and Break Things ([explained](http://www.explainxkcd.com/wiki/index.php/1428))
 * [1601](https://xkcd.com/1601): Isolation ([explained](http://www.explainxkcd.com/wiki/index.php/1601))
 * [1753](https://xkcd.com/1753): Thumb War ([explained](http://www.explainxkcd.com/wiki/index.php/1753))
 * [1790](https://xkcd.com/1790): Sad ([explained](http://www.explainxkcd.com/wiki/index.php/1790))

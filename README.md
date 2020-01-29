@@ -67,3 +67,4 @@ You will need the following packages installed for Python 2.7:
 * [2200](https://xkcd.com/2200): Unreachable State ([explained](http://www.explainxkcd.com/wiki/index.php/2200))
 * [2228](https://xkcd.com/2228): Machine Learning Captcha ([explained](http://www.explainxkcd.com/wiki/index.php/2228))
 * [2258](https://xkcd.com/2258): Solar System Changes ([explained](http://www.explainxkcd.com/wiki/index.php/2258))
+* [2260](https://xkcd.com/2260): Reaction Maps ([explained](http://www.explainxkcd.com/wiki/index.php/2260))

@@ -69,3 +69,4 @@ You will need the following packages installed for Python 2.7:
 * [2258](https://xkcd.com/2258): Solar System Changes ([explained](http://www.explainxkcd.com/wiki/index.php/2258))
 * [2260](https://xkcd.com/2260): Reaction Maps ([explained](http://www.explainxkcd.com/wiki/index.php/2260))
 * [2298](https://xkcd.com/2298): Coronavirus Genome ([explained](http://www.explainxkcd.com/wiki/index.php/2298))
+* [2374](https://xkcd.com/2374): 10,000 Hours ([explained](http://www.explainxkcd.com/wiki/index.php/2374))
